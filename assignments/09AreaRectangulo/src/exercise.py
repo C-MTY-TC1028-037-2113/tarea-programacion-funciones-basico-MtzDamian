@@ -1,6 +1,6 @@
 def area(base,altura):
     return base*altura
-
+#aqui
 def main():
     #escribe tu código abajo de esta línea
     b = float(input("Dame la base: "))
